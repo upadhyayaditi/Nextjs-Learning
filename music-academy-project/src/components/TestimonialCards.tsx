@@ -1,6 +1,7 @@
 "use client";
 import { InfiniteMovingCards } from "./ui/infinite-moving-cards";
 
+
 const musicSchoolTestimonials = [
   {
     quote:
@@ -52,3 +53,5 @@ function MusicSchoolTestimonials() {
 }
 
 export default MusicSchoolTestimonials;
+
+
